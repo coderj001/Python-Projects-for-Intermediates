@@ -1,6 +1,4 @@
-# Movie-Search-Browser
+# Movie-Search-Engine-[With Hangman]
 This will give you all the information of the movie :  
-Version 0.1
-Features You can serach by using Diracter name and etc
 #### Work in progress !
-last updated on 25/09/2020 ✨🎇
+last updated on 02/12/2020 ✨🎇
